@@ -1,3 +1,3 @@
 This repo contains data and code related to the $N$-components cat teleamplifier ($N$-CT) device. Using the code given in [cat-teleamplifier.ipynb](https://github.com/JGuanzon/cat-teleamplifier/blob/main/cat-teleamplifier.ipynb), we created the numerical results and graphs given in our most recent paper in Ref. [1]. Since these simulations can take a while, we also saved important simulated data as csv files in the [data folder](https://github.com/JGuanzon/cat-teleamplifier/tree/main/data). 
 
-[1] Guanzon, J.J., Winnel, M.S., Lund, A.P. and Ralph, T.C., 2022. Perfect Fidelity Noiseless Linear Amplification and Loss-Tolerant Quantum Relay of Continuous-Variable States. (to be published) 
+[1] Guanzon, J.J., Winnel, M.S., Lund, A.P. and Ralph, T.C., "Saturating the Maximum Success Probability Bound for Noiseless Linear Amplification using Linear Optic," [Physical Review A **108**, 032411 (2023)](https://doi.org/10.1103/PhysRevA.108.032411). 
